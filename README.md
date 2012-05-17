@@ -5,7 +5,7 @@ This script is a port of [fhemberger's](https://github.com/fhemberger) Node.js-b
 
 ## Usage
 
-Just run dude.py from the python interpreter:
+Just run dude.py from the python interpreter: 
 
 	python dude.py [options]
 	
@@ -21,6 +21,9 @@ Just run dude.py from the python interpreter:
 	  -l, --lebowskiipsum        Start the first paragraph with "Lebowski Ipsum"
 	  -t, --tags                 Wrap your filler text in zee HTML tacs, OK?
 	  -m, --mixed                Mix Lebowski quotes with old fashioned Lorem Ipsum
+	  -w, --who					 Specify the characters. Possible options: dude, 
+	  							 walter, stranger, donnie, lebowski, brandt, bunny, 
+	  							 jesus, maude, others (default: all)
 
 
 ## License
