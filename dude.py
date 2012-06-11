@@ -113,7 +113,7 @@ else:
 	
 	except IndexError:
 		print errorstring
-		print 'Reason: We couldn\'t find the damn text'
+		print 'Reason: We couldn\'t find the friggin\' text'
 
 	else :
 		print lipsum
